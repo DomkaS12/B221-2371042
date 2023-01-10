@@ -8,7 +8,7 @@ def test_ukol2_basic():
     data = {
 
     "students":["Adam Levine", "Monica Muller", "John Deere", "John Deere", "Adam Peichl", "Martin Novak", "Michal Kuchař", "John Deere"],
-    "active":[True, False, True, True, True, False, True, True]
+    "active":[False, False, False, True, False, False, True, True]
 
     }
 
